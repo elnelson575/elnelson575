@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! 👋 I'm Liz 👩🏻‍💻 
 
-<!--
-**elnelson575/elnelson575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Developer passionate about civic tech, reproducibility, and social good.
 
-Here are some ideas to get you started:
+Currently @ [UChicago](https://capp.uchicago.edu/) -- passionate about making government and social services more effective through ethical application of technology. See my [website](liz-nelson.com) for more information on my past work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :computer: Coding in: Python, R, JavaScript, HTML
+- 📫 How to reach me: DM [@LizWNelson](https://twitter.com/LizWNelson)
+- 😄 Pronouns: She/her
+
+#### Learn more & contact me
+- [Website](liz-nelson.com)
+- [Twitter](https://twitter.com/LizWNelson)
+- [LinkedIn](https://www.linkedin.com/in/elizabeth-nelson-58937011a)
