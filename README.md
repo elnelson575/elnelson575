@@ -7,7 +7,7 @@ Currently @ [UChicago](https://capp.uchicago.edu/) -- passionate about making go
 - :computer: Coding in: Python, R, JavaScript, HTML
 - 📫 How to reach me: DM [@LizWNelson](https://twitter.com/LizWNelson)
 - 😄 Pronouns: She/her
-- :speech balloon: Ask me about: R Shiny in Production, Tech for government, accessibility testing
+- :speech_balloon: Ask me about: R Shiny in Production, Tech for government, accessibility testing
 
 #### Learn more & contact me
 - [Website](http://liz-nelson.com)
