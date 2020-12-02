@@ -4,7 +4,7 @@
 
 Currently @ [UChicago](https://capp.uchicago.edu/) -- passionate about making government and social services more effective through ethical application of technology. See my [website](http://liz-nelson.com) for more information on my past work.
 
-- :computer: Coding in: Python, R, JavaScript, HTML
+- :computer: Coding in: Python, R, Java, JavaScript, HTML
 - 📫 How to reach me: DM [@LizWNelson](https://twitter.com/LizWNelson)
 - 😄 Pronouns: She/her
 - :speech_balloon: Ask me about: R Shiny in Production, Tech for government, accessibility testing
